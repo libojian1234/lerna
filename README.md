@@ -286,3 +286,10 @@ module.exports = plop => {
 ```js
 yarn plop
 ```
+
+### 发布到 npm
+
+1. 打包： yarn build:prod
+2. 查看npm是否登录： npm whoami   (没有登录的话： npm adduser)
+3. 把代码提交到github
+4. 发布： yarn lerna
