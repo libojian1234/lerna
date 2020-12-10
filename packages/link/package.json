@@ -1,0 +1,15 @@
+{
+  "name": "lbj-link",
+  "version": "0.0.0",
+  "description": "Lbj-link component",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "author": "libojian <libojian1234@126.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "keywords": []
+}
